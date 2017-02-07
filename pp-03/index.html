@@ -8,25 +8,33 @@
 </head>
 <body>
 
-  <form id="information" name="information" method="get" action="#null">
-    <ol>
-      <li id="email-input">
-        <label for="email">Email</label>
-        <input type="email" name="email" id="email" placeholder="you@example.com" pattern="^.+@.+$" />
-      </li>
-      <li id="phone-input">
-        <label for="phone">Phone Number</label>
-        <input type="tel" name="phone" id="phone" placeholder="734-777-8888" pattern="\d{3}[\-]\d{3}[\-]\d{4}"/>
-      </li>
-      <li id="dob-input">
-        <label for="email">Birth Date</label>
-        <input type="date" name="dob" id="dob" />
-      </li>
-      <li id="submit">
-        <input type="submit" name="submit" id="submit" value="Submit" />
-      </li>
-    </ol>
-  </form>
+  <header id="header">
+    <h1>Sign your soul away</h1>
+  </header>
+
+    <form id="information" name="information" method="get" action="#null">
+      <p>
+        Please enter your email, phone number, and birth date
+      </p>
+      
+      <ol>
+        <li id="email-input">
+          <label for="email">Email</label>
+          <input type="email" name="email" id="email" placeholder="you@example.com" pattern="^.+@.+$" />
+        </li>
+        <li id="phone-input">
+          <label for="phone">Phone Number</label>
+          <input type="tel" name="phone" id="phone" placeholder="734-777-8888" pattern="\d{3}[\-]\d{3}[\-]\d{4}"/>
+        </li>
+        <li id="dob-input">
+          <label for="email">Birth Date</label>
+          <input type="date" name="dob" id="dob" />
+        </li>
+        <li id="submit">
+          <input type="submit" name="submit" id="submit" value="Submit" />
+        </li>
+      </ol>
+    </form>
   
 </body>
 </html>
