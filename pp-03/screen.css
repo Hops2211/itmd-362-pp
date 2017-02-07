@@ -5,3 +5,8 @@ html {
   background-color: #FFFDBC;
   padding: 0;
 }
+
+ol{
+  padding: 1.222em;
+  list-style-type: none;
+}
