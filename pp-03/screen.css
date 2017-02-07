@@ -4,11 +4,18 @@ html {
   color: #000;
   background-color: #FFFDBC;
   padding: 0;
+  font-family: Sans-serif;
+}
+
+h1 {
+  padding-bottom: 0; /* 22px */
+  padding: 0.7075em;
 }
 
 p{
   padding: 1.222em;
   padding-bottom:0; /* 22px */
+  padding-top: 0;
 }
 
 ol{
