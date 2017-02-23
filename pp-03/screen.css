@@ -181,7 +181,7 @@ textarea {
 /* end normalize.css form styles */
 
 
-
+/* Base Style */
 html {
   font-size: 1.125em; /* 18px */
   line-height: 1.222em; /* 22px */
@@ -194,6 +194,8 @@ html {
 h1 {
   padding-bottom: 0; /* 22px */
   padding: 0.7075em;
+  font-size: 1.944em; /* 31.104px */
+  line-height: 1.222em;
 }
 
 p{
