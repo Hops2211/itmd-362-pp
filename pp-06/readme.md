@@ -10,7 +10,7 @@ Raiven Johnson
 Dennis Chase
 Leo Lara
 
-3. Copy and paste the URL for your group’s organization here:
+3. Copy and paste the URL for your group’s organization here: https://github.com/itmd362-RJDCLL
 
 4. Copy and paste the URL for your shared repository here:
 
