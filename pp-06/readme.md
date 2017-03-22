@@ -12,7 +12,7 @@ Leo Lara
 
 3. Copy and paste the URL for your group’s organization here: https://github.com/itmd362-RJDCLL
 
-4. Copy and paste the URL for your shared repository here:
+4. Copy and paste the URL for your shared repository here: https://github.com/itmd362-RJDCLL/Project2-Group
 
 5. Each member of the group should fork the repository (including the group member whose account contains was used to create the GitHub organization for your project).
 
