@@ -23,6 +23,8 @@ Write the URL for your personal fork of the repository here: https://github.com/
 Write the output of `git remote -v` from your copy of the forked repository here:
 group   https://github.com/itmd362-RJDCLL/Project2-Group (fetch)
 group   https://github.com/itmd362-RJDCLL/Project2-Group (push)
+origin  https://github.com/Hops2211/Project2-Group.git (fetch)
+origin  https://github.com/Hops2211/Project2-Group.git (push)
 
 
 7. Finally, each group member should add to the `README.md` file his/her name, and a brief few sentences of what the member believes are his/her primary strengths. Prior to doing that, be sure to pull from the remote repo (`git pull group master`) to get any other group members’ names and strengths. Add and commit your own work, and push to your own repository (`git push origin master`).
