@@ -41,6 +41,9 @@ Small commits to your Production Problems repository that include:
 
 * HCI Guidline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
 * How you implemented it in your sketch:
-  Direct Manipulation.
-  The login screen will turn in accorandce with the device
-  as well as you will be able to zoom in and it will adjust
+  Visuals.
+  The login will have larger text boxes for user input
+  all of the text boxes will be the same size
+  Capital letters for the main heading of the page as well as the logion button
+  light easily contrastable colors
+  sensible easy spacing on all sides of each element
