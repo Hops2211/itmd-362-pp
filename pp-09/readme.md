@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.  http://infodesign.com.au/wp-content/uploads/WebCheck.pdf
+2.  http://drpete.co/blog/25-point-website-usability-checklist
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.  Responsive Design
+2.  Clear Language
+3.  Loads quickly
+4.  Easy to digest color contrast
+5.  Consistent layout
+6.  Organized layout
+7.  Easily identifiable navigation
+8.  Consistent navigation
+9.  Important commands are displayed as buttons, not links
+10.   Browser to browser compatibility
