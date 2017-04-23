@@ -12,14 +12,16 @@ A. Photograph of the object (place in the pp-09/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: Symmetric, smooth, rounded, small enough to hold comfortably,
+            nice circumfrence, bright top
 
-* Behavioral:
+* Behavioral: water doesn't come out when its tipped upside down, water comes out when squeezed or
+              sucked on.
 
-* Reflective:
+* Reflective: Well known brand (Gatorade), makes you look like an athlete
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.
-2.
-3.
+1.  Symmetric layout so it is easy to navigate and remember
+2.  Slightly rounded edges so the design doesn't look so hard
+3.  Bright colors that are appealing but contrasted with an evenly darker color
