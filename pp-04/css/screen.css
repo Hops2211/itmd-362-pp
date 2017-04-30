@@ -192,19 +192,72 @@ img, audio, video {
 */
 
 html {
+  box-sizing: border-box;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  font-family: sans-serif, serif;
+  background-color: #FFE7A6;
+}
+
+h1 {
+  font-size: 35.156px;
+  text-align: center;  
+  padding-bottom: 1.182em; /* 26px / ~ 120% */
+}
+
+p {
+  padding-bottom: 1.182em; /* 26px / ~ 120% */
+  
+}
+
+/* Form */
+input {
+  box-sizing: border-box;
+  display: block;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  padding: 14px;
+  width: 100%;
+  border: 0;
+  background-color: #DEDAE5;
+  
 }
 
 label {
   display: block;
 }
 
+input[type="email"] {
+  box-align: center;
+}
+
+input[type="checkbox"]{
+  width: auto;
+  height: auto;
+  float: left;
+}
+
+input[type="checkbox"] + label {
+  display: inline;
+  
+}
+
+
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
+form li {
+  padding-bottom: 1.182em; /* 26px / ~ 120% */
+}
 
 /* ===== STATE STYLES ======= */
+h1 {
+  font-family: 'Baloo', cursive, serif;
+}
 
+p {
+  font-family: 'PT Sans', sans-serif;
+}
